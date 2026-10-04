@@ -1,0 +1,7 @@
+"Analysis","Effect_Measure","Estimate","CI_Lower","CI_Upper","P_Value","Estimate_95CI"
+"Temperature and preeclampsia","Odds Ratio",1.09,1.061,1.12,4.48523908308743e-10,"1.09 (1.061–1.12)"
+"PM2.5 and preeclampsia","Odds Ratio",1.02,1.01,1.031,0.000102715443574897,"1.02 (1.01–1.031)"
+"Temperature and gestational diabetes","Odds Ratio",1.059,1.036,1.083,4.72164161702996e-07,"1.059 (1.036–1.083)"
+"Temperature and birthweight","Beta coefficient (grams)",-34.91,-37.853,-31.967,1.61249202406509e-116,"-34.91 (-37.853–-31.967)"
+"Cumulative temperature and preeclampsia","Odds Ratio",1.096,1.068,1.125,8.8709899295314e-12,"1.096 (1.068–1.125)"
+"High versus lower heat and preeclampsia","Odds Ratio",1.606,1.323,1.939,1.19009454387834e-06,"1.606 (1.323–1.939)"

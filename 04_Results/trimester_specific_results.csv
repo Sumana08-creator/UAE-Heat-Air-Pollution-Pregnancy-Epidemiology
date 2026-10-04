@@ -1,0 +1,4 @@
+"Exposure_Window","Exposure_Variable","OR_per_1C","CI_Lower","CI_Upper","P_Value","AIC","Model"
+"First trimester","temperature_first_trimester",1.08214763194983,1.05627316156138,1.10865592343897,1.61711058029579e-10,4689.91058121522,"First-trimester model"
+"Second trimester","temperature_second_trimester",1.08183516583529,1.05595783557356,1.10834664662739,1.91592130081874e-10,4690.33856126711,"Second-trimester model"
+"Third trimester","temperature_third_trimester",1.07009443432494,1.04462691280515,1.09618284225346,3.53456437574809e-08,4700.5967150012,"Third-trimester model"

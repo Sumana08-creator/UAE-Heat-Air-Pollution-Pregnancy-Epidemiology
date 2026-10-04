@@ -1,0 +1,4 @@
+"Model","AIC"
+"Model 1: Temperature only",4699.5576075102
+"Model 2: Temperature + PM2.5",4686.58267918623
+"Model 3: Fully adjusted",4691.4372982172
